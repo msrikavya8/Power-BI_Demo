@@ -11,4 +11,5 @@ PRACTICED TOPICS:
 
  I will upload my Power BI practice files and dashboards here.
 
-<img width="1920" height="955" alt="Screenshot (25125)" src="https://github.com/user-attachments/assets/e856b4a4-e9bc-48c1-b7c2-c3d09a12d94f" />
+<img width="1916" height="966" alt="Final_output" src="https://github.com/user-attachments/assets/a3485038-3d24-4762-aec5-13c21ca40324" />
+
